@@ -1,0 +1,19 @@
+.totalLikes {
+    display: flex;
+    justify-content: space-around;
+}
+
+.totalLikes button {
+    background-color: blue;
+    color: red;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+    cursor: pointer;
+}
+
+.totalLikes p {
+    font-weight: 500;
+    font-style: oblique;
+}
